@@ -4,8 +4,8 @@
 ![tree man page](TM.PNG)
 ### Part E: regex
 ![first regex part](finished_regex_1.PNG)
-![first regex part](tutorial_complete.PNG)
-![first regex part](one_through_five_done.PNG)
+![second regex part](tutorial_complete.PNG)
+![third regex part](one_through_five_done.PNG)
 ### Part F: blockly
 ![first regex part](BlocklySol.PNG)
 ### Part G: reflection
