@@ -1,0 +1,9 @@
+## Adam Gibbons Lab2
+
+pic for part 1... gitk wasnt working
+
+link to fork
+https://github.com/gibboa/Spoon-Knife
+
+link tom pul request
+https://github.com/wdturner/PullReq/pull/24
