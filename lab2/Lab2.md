@@ -1,5 +1,6 @@
 ## Adam Gibbons Lab2
 ### Part 1
+![alt text] (part1b_log.PNG)
 pic for part 1... gitk wasnt working
 
 link to fork
