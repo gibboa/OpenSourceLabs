@@ -4,6 +4,8 @@
 Branching Diagram...
 ![git log](part1b_log.PNG)
 gitk wasnt working, still not working after following instructions from Mattermost, will try again on linux
+set it up on linux...
+![gitk](gitk4real.png)
 
 ### Part 2
 
