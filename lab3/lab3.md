@@ -2,6 +2,10 @@
 
 ### Part 0
 
+Link to wiki:
+
+https://github.com/gibboa/OpenSourceLabs/wiki
+
 Link to latex file:
 
 https://github.com/gibboa/OpenSourceLabs/blob/master/lab3/lab3_latex.tex
