@@ -2,6 +2,14 @@
 
 ### Part 0
 
+Link to latex file:
+
+https://github.com/gibboa/OpenSourceLabs/blob/master/lab3/lab3_latex.tex
+
+Pic of Latex output:
+
+![latex output](latex_ouput.PNG)
+
 ### Part 1
 
 #### project 1: runelite
@@ -116,3 +124,5 @@ https://github.com/gibboa/OpenSourceLabs/blob/master/lab3/test_markdown_unittest
 Pic of Unit test Results:
 
 ![unit tests](lab3_unit_test_results.PNG)
+
+Table 8 Fellows: Krishg4, Drochecsp2017
