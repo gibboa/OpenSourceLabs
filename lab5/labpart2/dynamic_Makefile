@@ -1,0 +1,9 @@
+all: maked_prog_dynamic
+maked_prog_dynamic: program.o lib_prog.so
+	cc program.o lib_prog.so -o maked_prog_dynamic -Wl,-rpath='$$ORIGIN'
+program.o: program.c
+	cc -c program.c -o program.o
+lib_prog.so: block.o
+	cc -shared -o lib_prog.so block.o
+block.o: source/block.c
+	cc -fPIC -c source/block.c -o block.o

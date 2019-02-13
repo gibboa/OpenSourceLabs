@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/headers/block.h
+
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/program.c
+headers/block.h
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/headers/block.h
+

@@ -1,0 +1,9 @@
+all: maked_prog_static
+maked_prog_static: program.o lib_prog.a
+	cc program.o lib_prog.a -o maked_prog_static
+program.o: program.c
+	cc -c program.c -o program.o
+lib_prog.a: block.o
+	ar qc lib_prog.a block.o
+block.o: source/block.c
+	cc -c source/block.c -o block.o

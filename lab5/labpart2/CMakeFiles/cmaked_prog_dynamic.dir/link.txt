@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/cmaked_prog_dynamic.dir/program.c.o  -o cmaked_prog_dynamic -Wl,-rpath,/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2 libprog_lib.so 

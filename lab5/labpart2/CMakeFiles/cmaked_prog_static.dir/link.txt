@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/cmaked_prog_static.dir/program.c.o  -o cmaked_prog_static libprog_lib.a 

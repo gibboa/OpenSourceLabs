@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprog_lib.a  CMakeFiles/prog_lib.dir/source/block.c.o
+/usr/bin/ranlib libprog_lib.a

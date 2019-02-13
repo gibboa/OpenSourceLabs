@@ -1,0 +1,4 @@
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/CMakeFiles/rebuild_cache.dir
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/CMakeFiles/edit_cache.dir
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/CMakeFiles/prog_lib.dir
+/home/adam/Documents/GitRepos/OpenSourceLabs/lab5/labpart2/CMakeFiles/cmaked_prog_static.dir

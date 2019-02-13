@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.0)
+project(lab5_cmake_dynamic)
+
+add_library(prog_lib SHARED source/block.c headers/block.h)
+
+add_executable(cmaked_prog_dynamic program.c)
+target_link_libraries(cmaked_prog_dynamic prog_lib)
