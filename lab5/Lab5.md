@@ -42,6 +42,11 @@ Providing screenshots of steps 1-5 by the folders (1-3 in the tutorial)
 
 ### My First Make File
 
+Files for this section are located in this repo:
+https://github.com/gibboa/OpenSourceLabs/tree/master/lab5/labpart2
+(I don't think you'll need them though, but just in case)
+The code for the makefiles and pictures of outputs are below.
+
 #### Static Makefile:
 
 <pre>
@@ -104,7 +109,7 @@ Here's the output from the program... it's for one executable but the output was
 ![size of executables](prog_output.png)
 
 
-And heres a copy of the CMaked Makefile....
+And heres a copy of the CMaked Makefile.... (so much larger than reguler Makefiles)
 
 <pre>
 # CMAKE generated file: DO NOT EDIT!
