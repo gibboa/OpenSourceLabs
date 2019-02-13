@@ -6,11 +6,11 @@ Providing screenshots of steps 1-5 by the folders (1-3 in the tutorial)
 
 #### Step 1
 
-![step1-1](s1_1.png)
+![step1-1](step1pics/s1_1.png)
 
-![step1-2](s1_2.png)
+![step1-2](step1pics/s1_2.png)
 
-![step1-3](s1_3.png)
+![step1-3](step1pics/s1_3.png)
 
 #### Step 2
 
