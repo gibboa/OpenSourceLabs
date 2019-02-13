@@ -4,7 +4,7 @@
 
 Providing screenshots of steps 1-5 by the folders (1-3 in the tutorial)
 
-#### Step 1
+### Step 1
 
 ![step1-1](step1pics/s1_1.png)
 
@@ -12,33 +12,33 @@ Providing screenshots of steps 1-5 by the folders (1-3 in the tutorial)
 
 ![step1-3](step1pics/s1_3.png)
 
-#### Step 2
+### Step 2
 
-![step2-1](s2_1.png)
+![step2-1](step2pics/s2_1.png)
 
-![step2-2](s2_2.png)
+![step2-2](step2pics/s2_2.png)
 
 #### Step 3
 
-![step3-1](s3_1.png)
+![step3-1](step3pics/s3_1.png)
 
-![step3-2](s3_2.png)
+![step3-2](step3pics/s3_2.png)
 
-#### Step 4
+### Step 4
 
-![step4-1](s4_1.png)
+![step4-1](step4pics/s4_1.png)
 
-![step4-2](s4_2.png)
+![step4-2](step4pics/s4_2.png)
 
-![step4-3](s4_3.png)
+![step4-3](step4pics/s4_3.png)
 
-#### Step 5
+### Step 5
 
-![step1-5](s5_1.png)
+![step1-5](step5pics/s5_1.png)
 
-![step1-5](s5_2.png)
+![step1-5](step5pics/s5_2.png)
 
-![step1-5](s5_3.png)
+![step1-5](step5pics/s5_3.png)
 
 ### My First Make File
 
