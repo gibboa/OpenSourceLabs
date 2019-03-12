@@ -75,7 +75,11 @@ if __name__ == '__main__':
 
     ##########################################################Code changed for Lab6
     for word in ["SLID", "DOTE", "HERD", "OMEN"]:
-    	print("The words preceding", word, "are:")
+    	print "The words preceding", word, "are:"
+    	precede(word, G)
+
+    for word in ["NINE", "SELL", "SPAT", "WHAT"]: #STAT is not in the graph!?...testing with SPAT
+    	print "The words following", word, "are:"
     	precede(word, G)
 
     
