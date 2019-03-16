@@ -11,7 +11,7 @@ photo of completed part 1:
 
 photo of completed part 1:
 
-![step1-5](lab7_7.PNG)
+![step1-5](lab7_9.PNG)
 
 (Screenshots of individual steps in the lessons are in the repository.)
 
