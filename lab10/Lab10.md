@@ -46,4 +46,4 @@ Got lucky with a duplicate random selection of 'MTS' pretty quickly:
 
 Script:
 
-[link to checkpoint5.py]()
+[link to checkpoint5.py](https://github.com/gibboa/OpenSourceLabs/blob/master/lab10/checkpoint5.py)
