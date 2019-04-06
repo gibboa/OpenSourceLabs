@@ -36,7 +36,7 @@ Find by id:
 
 Script:
 
-[link to checkpoint4.py]()
+[link to checkpoint4.py](https://github.com/gibboa/OpenSourceLabs/blob/master/lab10/checkpoint4.py)
 
 ### Checkpoint 5:
 
