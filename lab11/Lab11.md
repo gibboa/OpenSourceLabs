@@ -2,11 +2,11 @@
 
 ### checkpoint 1
 
-![cp1 complete](cp1_1.png)
+![cp1 complete](cp1_1.PNG)
 
 ### checkpoint 2
 
-![cp2 complete](cp2_1.png)
+![cp2 complete](cp2_1.PNG)
 
 ### checkpoint 3
 
